@@ -49,7 +49,7 @@ dependencies:
   formz: ^0.6.1
   get_it: ^7.6.7
   injectable: ^2.3.2
-  smooth_sheets: ^0.2.0
+  smooth_sheets: ^0.4.2
   flutter_platform_widgets: ^6.1.0
   animated_bottom_navigation_bar:
     git:

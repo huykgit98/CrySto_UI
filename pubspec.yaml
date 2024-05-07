@@ -58,7 +58,7 @@ dependencies:
   phone_form_field: ^9.0.5
   flutter_inappwebview: ^6.0.0
   visibility_detector: ^0.4.0+2
-  flutter_local_notifications: ^16.3.2
+  flutter_local_notifications: ^17.1.2
   firebase_messaging: ^14.7.16
   firebase_core: ^2.25.5
   freezed: ^2.4.7
